@@ -1,0 +1,8 @@
+DB Migration:
+
+Step1 : Go To "Tools" Menu, Select "NuGet Package Manager" and "Package Manager Console"
+
+Step 2: PM> add-Migration AddProducttoDB
+
+Step3: PM> update-database
+
